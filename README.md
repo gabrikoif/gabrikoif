@@ -1,6 +1,4 @@
-# Gaby
-
-Here for the journey, and the larp🥰❤️‍🩹
+# Gabi
 
 ---
 
