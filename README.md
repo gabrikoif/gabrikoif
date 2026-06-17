@@ -11,7 +11,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Stats
-
 <img src="https://streak-stats.demolab.com?user=gabrikoif&theme=default&hide_border=true" height="150"/>
 
 ---
