@@ -6,9 +6,7 @@ I'm currently learning advanced math and physics which is why I decided to build
 ---
 
 ### What I'm working on
-* **CLngine** – A high-performance 2D/3D physics and rendering engine built with C++ and OpenGL.
-* Learning how to optimize math and memory layout.
-
+* **CLngine** – A high-performance 3D physics and rendering engine built with C++ and OpenGL.
 
 ---
 # Tech Stack:
