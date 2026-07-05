@@ -20,5 +20,7 @@ I'm currently learning advanced math and physics which is why I decided to build
 ![](https://streak-stats.demolab.com/?user=gabrikoif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gabrikoif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://activity-graph.herokuapp.com/graph?username=gabrikoif&theme=github)](https://github.com/gabrikoif)
+
 ---
 *thanks for reading :)*
