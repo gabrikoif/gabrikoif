@@ -22,5 +22,13 @@ I'm currently learning advanced math and physics which is why I decided to build
 
 [![](https://activity-graph.herokuapp.com/graph?username=gabrikoif&theme=github)](https://github.com/gabrikoif)
 
+# Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrikoif/gabrikoif/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrikoif/gabrikoif/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/gabrikoif/gabrikoif/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 ---
 *thanks for reading :)*
